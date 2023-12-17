@@ -23,13 +23,14 @@ section.secondary {
 .grid {
   display: grid;
   grid-template-columns: 1fr 2fr 2fr;
-  grid-gap: 64px;
+  grid-gap: 40px;
 }
 .grid-2-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
 .grid-3-column {
+  display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
 .btn {
